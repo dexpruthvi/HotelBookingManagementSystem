@@ -1,7 +1,7 @@
 package usecase2;
 
 /**
- * Abstract Room class representing common properties of all rooms
+ Abstract Room class representing common properties of all rooms
  */
 public abstract class Room {
 
